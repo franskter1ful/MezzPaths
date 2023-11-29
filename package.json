@@ -1,0 +1,19 @@
+{
+  "name": "country_map",
+  "version": "1.0.0",
+  "description": "device map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franskter1ful/MezzPaths.git"
+  },
+  "author": "Frank Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franskter1ful/MezzPaths/issues"
+  },
+  "homepage": "https://github.com/franskter1ful/MezzPaths#readme"
+}
